@@ -1,60 +1,55 @@
-# Site Settings
-title: "Beach Terrace Inn"
+---
+title: Beach Terrace Inn
 title_separator: "|"
-name: "Hotels in Carlsbad CA | Carlsbad Hotel"
-description: "Enjoy a Southern California sunset from our private beach. Our luxurious Hotel in Carlsbad CA is built directly on the sand. Book our Carlsbad hotel direct!"
-url: "https://www.beachterraceinn.com" # the base hostname & protocol for your site e.g. "https://www.traveltripper.io"
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: "TravelTripperWeb/beachterraceinn" # GitHub username/repo-name e.g. "TravelTripperWeb/bedrock"
+name: Hotels in Carlsbad CA | Carlsbad Hotel
+description: Enjoy a Southern California sunset from our private beach. Our luxurious
+  Hotel in Carlsbad CA is built directly on the sand. Book our Carlsbad hotel direct!
+url: https://www.beachterraceinn.com
+baseurl: 
+repository: TravelTripperWeb/beachterraceinn
 reztripUrl: https://beachterraceinn.reztrip.com/
-# Language Settings
-default_lang: 'en'
-languages: ['en']
-
-# Reading Files
+default_lang: en
+languages:
+- en
 include:
-  - _pages
+- _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - Makefile
-  - media.json
-  - models.json
-  - node_modules
-  - old_media.json
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README
-  - sitemap.json
-  - tmp
-  - vendor
+- "*.sublime-project"
+- "*.sublime-workspace"
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- Makefile
+- media.json
+- models.json
+- node_modules
+- old_media.json
+- package.json
+- package-lock.json
+- Rakefile
+- README
+- sitemap.json
+- tmp
+- vendor
 keep_files:
-  - .git
-  - assets
+- ".git"
+- assets
 rsync_copy:
 - _assets
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 excerpt_separator: "\n\n"
 incremental: false
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -64,41 +59,10 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Sass/SCSS
 sass:
-    load_paths:
-        - _sass
-    style: compressed
-
-# Outputting
+  load_paths:
+  - _sass
+  style: compressed
 permalink: pretty
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# data_paginate:
-#   per_page: 5
-#   data: 'blog'
-#   path: 'blog/page:num'
-#   pagination_template: 'blog/index.html'
-#   sort_field: 'date'
-#   sort_reverse: true
-
-page_gen: #
-  # - data: 'attractions'
-  #   template: 'single-attraction'
-  #   dir: 'attractions'
-  # - data: 'blog'
-  #   template: 'single-blog'
-  #   dir: 'blog'
-  # - data: 'events'
-  #   template: 'single-event'
-  #   dir: 'events'
-  # - data: 'offers'
-  #   template: 'single-offer'
-  #   dir: 'offers'
-  # - data: 'rooms'
-  #   template: 'single-room'
-  #   dir: 'rooms'
-  # - data: 'specials'
-  #   template: 'single-special'
-  #   dir: 'specials'
+timezone: 
+page_gen: 
