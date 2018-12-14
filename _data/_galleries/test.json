@@ -40,6 +40,26 @@
       "git_file_name": "_assets/image_data/BTI-LE-View.json",
       "path": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/BTI_LE_View.jpg",
       "alt": "BTI_LE_View"
+    },
+    {
+      "name": "BTI_LE_Ocean 7",
+      "file_name": "BTI_LE_Ocean 7.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/BTI_LE_Ocean_7.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-08-053158",
+      "file_type": "image/jpeg",
+      "width": 768,
+      "height": 1152,
+      "file_size": 131130,
+      "url_large": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/large_BTI_LE_Ocean_7.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/medium_BTI_LE_Ocean_7.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/small_BTI_LE_Ocean_7.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/xsmall_BTI_LE_Ocean_7.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/thumb_BTI_LE_Ocean_7.jpg",
+      "git_file_name": "_assets/image_data/BTI-LE-Ocean-7.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_826_20974/media/2018-11-08-053158/BTI_LE_Ocean_7.jpg",
+      "alt": "BTI_LE_Ocean 7"
     }
   ],
   "description": "",
