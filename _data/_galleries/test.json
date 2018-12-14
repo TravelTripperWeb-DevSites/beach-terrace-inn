@@ -20,6 +20,26 @@
       "git_file_name": "_assets/image_data/BTI-LE-Beach-Setup.json",
       "path": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063311/BTI_LE_Beach_Setup.jpg",
       "alt": "BTI_LE_Beach Setup"
+    },
+    {
+      "name": "BTI_LE_View",
+      "file_name": "BTI_LE_View.jpg",
+      "url": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/BTI_LE_View.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-16-063309",
+      "file_type": "image/jpeg",
+      "width": 1151,
+      "height": 768,
+      "file_size": 532509,
+      "url_large": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/large_BTI_LE_View.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/medium_BTI_LE_View.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/small_BTI_LE_View.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/xsmall_BTI_LE_View.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/thumb_BTI_LE_View.jpg",
+      "git_file_name": "_assets/image_data/BTI-LE-View.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_826_21194/media/2018-11-16-063309/BTI_LE_View.jpg",
+      "alt": "BTI_LE_View"
     }
   ],
   "description": "",
