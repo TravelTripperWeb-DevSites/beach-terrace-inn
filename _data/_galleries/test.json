@@ -1,7 +1,26 @@
 {
   "name": "Test",
   "photos": [
-
+    {
+      "name": "lobby rendering (2)",
+      "file_name": "lobby rendering (2).jpg",
+      "url": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/lobby_rendering__2_.jpg",
+      "tags": "",
+      "description": "",
+      "date_added": "2018-11-19-045257",
+      "file_type": "image/jpeg",
+      "width": 1000,
+      "height": 600,
+      "file_size": 63092,
+      "url_large": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/large_lobby_rendering__2_.jpg",
+      "url_medium": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/medium_lobby_rendering__2_.jpg",
+      "url_small": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/small_lobby_rendering__2_.jpg",
+      "url_xsmall": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/xsmall_lobby_rendering__2_.jpg",
+      "url_thumb": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/thumb_lobby_rendering__2_.jpg",
+      "git_file_name": "_assets/image_data/lobby-rendering--2-.json",
+      "path": "//cdn.traveltripper.io/site-assets/32_826_21242/media/2018-11-19-045257/lobby_rendering__2_.jpg",
+      "alt": "lobby rendering (2)"
+    }
   ],
   "description": "",
   "id": "test"
